@@ -1,0 +1,13 @@
+X:\fna\bin\Debug\ExampleFNA.exe.config
+X:\fna\bin\Debug\ExampleFNA.exe
+X:\fna\bin\Debug\ExampleFNA.pdb
+X:\fna\bin\Debug\FNA.dll
+X:\fna\obj\Debug\ExampleFNA.csproj.AssemblyReference.cache
+X:\fna\obj\Debug\ExampleFNA.csproj.CoreCompileInputs.cache
+X:\fna\obj\Debug\ExampleFNA.csproj.CopyComplete
+X:\fna\obj\Debug\ExampleFNA.exe
+X:\fna\obj\Debug\ExampleFNA.pdb
+X:\fna\bin\Debug\FAudio.dll
+X:\fna\bin\Debug\FNA3D.dll
+X:\fna\bin\Debug\libtheorafile.dll
+X:\fna\bin\Debug\SDL2.dll
